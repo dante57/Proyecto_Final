@@ -1,0 +1,9 @@
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.csprojResolveAssemblyReference.cache
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.MainForm.resources
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.csproj.GenerateResource.Cache
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.pdb
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.Agregar.resources
+C:\Users\juancarlos\Documents\SharpDevelop Projects\Productos\Productos\obj\Debug\Productos.editar.resources
